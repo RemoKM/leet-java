@@ -21,6 +21,5 @@ class ReverseLinkedList {
             head = temp;
         }
         return newHead;
-
     }
 }
